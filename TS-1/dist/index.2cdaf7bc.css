@@ -1,0 +1,27 @@
+#image {
+  height: 50vh;
+}
+
+body {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3vh;
+  max-width: 930px;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+}
+
+button {
+  border: none;
+  border-radius: 12px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.buttons-container {
+  gap: 2vw;
+  display: flex;
+}
+/*# sourceMappingURL=index.2cdaf7bc.css.map */

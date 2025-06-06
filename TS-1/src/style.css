@@ -1,0 +1,26 @@
+#image {
+  height: 50vh;
+}
+
+body {
+  max-width: 930px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  gap: 3vh;
+  margin: 0 auto;
+}
+
+button {
+  padding: 10px;
+  font-size: 20px;
+  border: none;
+  border-radius: 12px;
+}
+
+.buttons-container {
+  display: flex;
+  gap: 2vw;
+}
